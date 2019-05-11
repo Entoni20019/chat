@@ -1,0 +1,15 @@
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe.config
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.pdb
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csprojAssemblyReference.cache
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form1.resources
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form2.resources
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Properties.Resources.resources
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.GenerateResource.cache
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.CoreCompileInputs.cache
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.exe
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.pdb
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\bin\Debug\Sport_Shop.mdb
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form3.resources
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form4.resources
+C:\Users\Anthonian\Desktop\Project\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form5.resources

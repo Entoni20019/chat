@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28822.285
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAnt", "MediaAnt.csproj", "{88EFE437-8DCE-461D-8160-452C77D38A90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88EFE437-8DCE-461D-8160-452C77D38A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EFE437-8DCE-461D-8160-452C77D38A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EFE437-8DCE-461D-8160-452C77D38A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EFE437-8DCE-461D-8160-452C77D38A90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2572C242-44ED-4B6B-A3C8-3758E47B9AD1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Anthonian\Desktop\Проекты\Project\client\Chat\bin\Debug\Chat.exe.config
+C:\Users\Anthonian\Desktop\Проекты\Project\client\Chat\bin\Debug\Chat.exe
+C:\Users\Anthonian\Desktop\Проекты\Project\client\Chat\bin\Debug\Chat.pdb
+C:\Users\Anthonian\Desktop\Проекты\Project\client\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+C:\Users\Anthonian\Desktop\Проекты\Project\client\Chat\obj\Debug\Chat.Form1.resources
+C:\Users\Anthonian\Desktop\Проекты\Project\client\Chat\obj\Debug\Chat.Form2.resources
+C:\Users\Anthonian\Desktop\Проекты\Project\client\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Anthonian\Desktop\Проекты\Project\client\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\Anthonian\Desktop\Проекты\Project\client\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Anthonian\Desktop\Проекты\Project\client\Chat\obj\Debug\Chat.exe
+C:\Users\Anthonian\Desktop\Проекты\Project\client\Chat\obj\Debug\Chat.pdb

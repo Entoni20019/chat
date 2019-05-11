@@ -1,0 +1,10 @@
+C:\Users\Anthonian\Desktop\Project\paint\Paint redactor\bin\Debug\Paint redactor.exe.config
+C:\Users\Anthonian\Desktop\Project\paint\Paint redactor\bin\Debug\Paint redactor.exe
+C:\Users\Anthonian\Desktop\Project\paint\Paint redactor\bin\Debug\Paint redactor.pdb
+C:\Users\Anthonian\Desktop\Project\paint\Paint redactor\obj\Debug\Paint redactor.csprojAssemblyReference.cache
+C:\Users\Anthonian\Desktop\Project\paint\Paint redactor\obj\Debug\Paint_redactor.Form1.resources
+C:\Users\Anthonian\Desktop\Project\paint\Paint redactor\obj\Debug\Paint_redactor.Properties.Resources.resources
+C:\Users\Anthonian\Desktop\Project\paint\Paint redactor\obj\Debug\Paint redactor.csproj.GenerateResource.cache
+C:\Users\Anthonian\Desktop\Project\paint\Paint redactor\obj\Debug\Paint redactor.csproj.CoreCompileInputs.cache
+C:\Users\Anthonian\Desktop\Project\paint\Paint redactor\obj\Debug\Paint redactor.exe
+C:\Users\Anthonian\Desktop\Project\paint\Paint redactor\obj\Debug\Paint redactor.pdb

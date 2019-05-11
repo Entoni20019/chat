@@ -1,0 +1,15 @@
+C:\Users\Anthonian\Desktop\Project\MediaAnt\bin\Debug\MediaAnt.exe.config
+C:\Users\Anthonian\Desktop\Project\MediaAnt\bin\Debug\MediaAnt.exe
+C:\Users\Anthonian\Desktop\Project\MediaAnt\bin\Debug\MediaAnt.pdb
+C:\Users\Anthonian\Desktop\Project\MediaAnt\obj\Debug\MediaAnt.csprojAssemblyReference.cache
+C:\Users\Anthonian\Desktop\Project\MediaAnt\obj\Debug\MainWindow.g.cs
+C:\Users\Anthonian\Desktop\Project\MediaAnt\obj\Debug\App.g.cs
+C:\Users\Anthonian\Desktop\Project\MediaAnt\obj\Debug\MediaAnt_MarkupCompile.cache
+C:\Users\Anthonian\Desktop\Project\MediaAnt\obj\Debug\MediaAnt_MarkupCompile.lref
+C:\Users\Anthonian\Desktop\Project\MediaAnt\obj\Debug\MainWindow.baml
+C:\Users\Anthonian\Desktop\Project\MediaAnt\obj\Debug\MediaAnt.g.resources
+C:\Users\Anthonian\Desktop\Project\MediaAnt\obj\Debug\MediaAnt.Properties.Resources.resources
+C:\Users\Anthonian\Desktop\Project\MediaAnt\obj\Debug\MediaAnt.csproj.GenerateResource.cache
+C:\Users\Anthonian\Desktop\Project\MediaAnt\obj\Debug\MediaAnt.csproj.CoreCompileInputs.cache
+C:\Users\Anthonian\Desktop\Project\MediaAnt\obj\Debug\MediaAnt.exe
+C:\Users\Anthonian\Desktop\Project\MediaAnt\obj\Debug\MediaAnt.pdb
